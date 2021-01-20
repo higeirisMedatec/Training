@@ -1,2 +1,2 @@
 # README
-Training release
+Training develop
