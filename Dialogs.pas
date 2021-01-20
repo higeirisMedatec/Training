@@ -3,7 +3,7 @@
 { Delphi Visual Component Library }
 { }
 { Copyright(c) 1995-2010 Embarcadero Technologies, Inc. }
-{ }
+{ blablabla}
 { ******************************************************* }
 
 unit Dialogs;
